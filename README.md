@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-dogra) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnav-dogra) 
 
 # 💻 Technologies:
 ![Andorid](https://img.shields.io/badge/ANDROID-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
