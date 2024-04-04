@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arnav </h1>
- 👨🏻‍🎓 I’m currently studying software engineering at Victoria University of Wellington<br><br>🧠 I’m currently learning Android development and AWS services
+ 👨🏻‍🎓 I’m currently studying software engineering at Victoria University of Wellington<br><br>🧠 I’m currently learning Android development.
 
 
 ## 🌐 Socials:
